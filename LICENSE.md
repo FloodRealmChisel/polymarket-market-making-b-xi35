@@ -1,4 +1,4 @@
-# 
+# Polymarket exclusive Automation Script: risk-management & slippage-control offers the most advanced Polymarket automation-script, with risk-management and slippage-control. Ideal
 
 
 
